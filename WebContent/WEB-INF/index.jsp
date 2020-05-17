@@ -43,7 +43,10 @@
 			 			 	<%= session.getId() %>
 			 			 </li>
 					</ul>
-			
+					<ul>
+			 			 <li>计算机应用班学生信息 <a href="http://www.tcgyxx.com/books/login.jsp"><b>点此进入</b></a></li>
+			 			 
+					</ul>
 			
 			
 			        </section>
